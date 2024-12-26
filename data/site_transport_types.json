@@ -1,0 +1,67 @@
+[
+  {
+    "id": 9305,
+    "gid": 9091001000009305,
+    "name": "Solna centrum",
+    "abbreviation": "SOC",
+    "Transport": [
+      "Metrostn",
+      "Bus"
+    ]
+  },
+  {
+    "id": 9306,
+    "gid": 9091001000009306,
+    "name": "Västra skogen",
+    "alias": [
+      "V Skogen"
+    ],
+    "abbreviation": "VÄS",
+    "Transport": [
+      "Metrostn",
+      "Bus"
+    ]
+  },
+  {
+    "id": 9000,
+    "gid": 9091001000009000,
+    "name": "Stockholms central",
+    "abbreviation": "CST",
+    "Transport": [
+      "Train",
+      "Bus"
+    ]
+  },
+  {
+    "id": 9001,
+    "gid": 9091001000009001,
+    "name": "T-Centralen",
+    "alias": [
+      "Tcentralen"
+    ],
+    "abbreviation": "TCE",
+    "Transport": [
+      "Metrostn",
+      "Bus"
+    ]
+  },
+  {
+    "id": 9002,
+    "gid": 9091001000009002,
+    "name": "Cityterminalen",
+    "abbreviation": "CIT",
+    "Transport": [
+      "Bus"
+    ]
+  },
+  {
+    "id": 9192,
+    "gid": 9091001000009192,
+    "name": "Slussen",
+    "Transport": [
+      "Metrostn",
+      "Bus",
+      "Boat"
+    ]
+  }
+]
