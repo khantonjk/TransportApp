@@ -4,6 +4,11 @@ import pandas as pd
 import json
 from datetime import datetime
 
+# TODO:
+#  Hittar apin
+#  https://www.trafiklab.se/api/trafiklab-apis/sl/transport/#url
+#  Lös det med att select box transport type filtrerar bort data så det endast går att välja några avgångar
+
 # SL API Details
 SL_DEPARTURES_API_URL = "https://transport.integration.sl.se/v1/sites/{siteId}/departures"
 
